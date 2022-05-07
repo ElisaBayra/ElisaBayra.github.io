@@ -1,16 +1,10 @@
 ## Please allow me to introduce myself...
 
-Text
+I'm an ecologist and conservation scientist who mobilises and interrogates data to craft solutions to environmental problems. My area of expertise is on using trends to report on how our threatened plants, mammals and birds are going and also on how we can optimise the restoration of our marine and coastal ecosystems to become more affordable and successful. My research translates ecology and data into policy impact. I collaborate closely with researchers, businesses, non-governmental organisations and policy makers to achieve real-world impact for the environment. 
 
----
+In 2018, I led the development of the world-first Threatened Species Index which is like a stock market index for Australia's threatened plants, mammals and birds - a tool nowadays used by the Australian government to report on how we are tracking and where we need to act now to prevent further species extinctions. 
 
-### Start
+In EcoCommons Australia, I lead a team of agile software developers (DevOps), scientists, science communicators, trainers and analysts to build the platform of choice for environmental and ecological modelling. I have the vision to empower researchers and policy decision makers by giving them access to trusted, world-leading ecological and environmental modelling tools to protect and restore the planet.
 
-#### And then
-
-xxxx
-
-#### And after that
-
-xxxx
+Besides my work I love to watch and perform Improvisational Theatre, go hiking and/or birdwatching, cultural travel and trying out new delicious food.
 
