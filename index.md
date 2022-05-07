@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Welcome to my personal blog!
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This is where I'm posting reflections and curious things that I encounter on the way of my journey in this beautiful world
