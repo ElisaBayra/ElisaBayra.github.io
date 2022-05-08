@@ -12,5 +12,7 @@ My goal is to post once per month.
 
 [^1] 
 [Chad Baldwin's blog template and how to guide](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html)
+
 [Adam Pritchard's Cheatsheet for the GitHub Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 [Barry Clark's intro to building blogs with Jekyll and GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
