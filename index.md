@@ -5,4 +5,4 @@ I'm posting reflections and curious things that I encounter on the way of my jou
 
 My goal is to post once per month.
 
-![Elisa casual](/images/Elisa casual - provided by Liam Moushall.jpg)
+![Elisa casual](/images/Elisa casual - provided by Liam Moushall.jpg:img?width=250)
