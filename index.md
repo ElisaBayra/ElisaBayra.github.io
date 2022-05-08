@@ -7,4 +7,4 @@ My goal is to post once per month.
 
 ![Elisa casual](/images/Elisa casual - provided by Liam Moushall.jpg){: width="250" }
 
-*Photo credit: Liam Moushall*
+*Photo credit: [Liam Moushall](https://liam-designs.com/)*
