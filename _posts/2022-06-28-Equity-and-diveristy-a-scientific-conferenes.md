@@ -1,0 +1,14 @@
+## A call on conferences for more equity
+This email is directed to those of you who care about equity and inclusiveness of diversity, especially with regards to collaborations with people from lower-middle income countries. I am calling for your support to distribute my open call to the International Coral Reef Symposium (ICRS) Organisers to improve participation and access to the ICRS22, and future ICRS conferences, by strategically reducing cost barriers to delegates from lower-middle-income countries. This is the tweet and I’ve attached my open letter for distribution:
+ 
+https://twitter.com/ElisaBayra/status/1492394908551761922?s=20&t=bOp6pp4lMYCq4HwcxkPYzg
+ 
+Here’s my personal story:
+It would have probably been by chance that I found myself at a Spanish-speaking meeting at the Reef Future Conference in 2018. Luckily, my Spanish was fairly good as I lived for 3 years in Colombia to collect the data for my PhD in 2010. At that meeting, I listened to 23 scientists and practitioners from Latin American countries who were lamenting that nobody in the world has ever heard about their massive coral reef restoration projects. It seems, non-English conservation papers are mostly ignored. I decided to help out, sat together with each of them and we wrote a multi-author paper reviewing the coral reef restoration efforts of Latin American Countries and Territories over the following 2 years.
+ 
+But I wanted to go further in giving those people the chance to have a voice at international meetings. In 2020, we submitted a symposium to the largest coral reef conference, the ICRS to showcase those coral reef restoration efforts in the Caribbean and Eastern Tropical Pacific and got 17 presenters from lower-middle-income countries such as Puerto Rico, Mexico, Bonaire, Curacao, and Colombia. ICRS 2020 was postponed to ICRS 2021 due to COVID-19 and was entirely online, however, none of the accepted delegates could afford the 350 Euro participation fee, so our symposium changed completely.
+ 
+This year, the ICRS 2022 will be a hybrid event hosted in Germany and the online participation fees jumped to 395 Euro (the in person fees are 830 Euro). I should note that 395 Euro represent 70-80% of the average monthly income in the countries where the delegates were from. The ICRS have resubmitted all accepted symposia, presentations and posters that were accepted in the virtual ICRS 2021. But I doubt, anyone from a poor country would be ever able to afford those costs.
+ 
+I feel, we need a cultural change for more inclusion of diversity and equity. This is why I am prepared to step down as chair if ICRS doesn’t waive online participation fees for delegates from lower-middle income countries. I am not sure, my call will lead to a change this year but at least it will stimulate some discourse for a potential change in the future. Here’s to hope!
+ 
