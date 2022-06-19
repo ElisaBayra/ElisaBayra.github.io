@@ -2,7 +2,7 @@
 This blog post is dedicated to of all the people who care about equity and inclusion of diversity, especially with regards to collaborations with researchers and practitioners from low, lower-middle, and upper-middle income economy countries. Here, I tell the back story about how the largest and oldest coral reef research society, the International Coral Reef Society (ICRS), changed their operational model for running their International Coral Reef Symposium (ICRS22)to improve participation and access to delegates from developing countries by waiving the online registration fees. This change followed a public request of one unhappy symposium chair. Me.
 
 ---
-### And this is how everything began
+### And this is how everything began...
 
 It would have probably been by chance that I found myself at a Spanish-speaking meeting of the Reef Future Conference in Florida in 2018. Luckily, my Spanish was fairly good as I lived for 3 years in Colombia to collect the data for my PhD in 2010. At the meeting, I listened to 25 scientists and practitioners from 5 Latin American countries who were lamenting that nobody in the world has ever heard about their massive coral reef restoration projects. It seems, non-English conservation papers are mostly ignored. At least, that's what work by [Amano et al. 2016](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2000933 "Link to Amano et al. 2016 paper") is showing us - 36% of all research in biodiversity conservation published in 2014 was not in English and we've been ignoring it. So in 2018, I decided to help out - I started interviewing the Latin American practitioners to get their research out there. I sat together with each of them and asked them questions about about cost, duration, spatial extent and feasibility of their projects in reaching their overall goals. Together, we wrote a multi-author scientific paper [Bayraktarov et al.2020b](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228477 "Link to Bayraktarov et al 2020b paper") reviewing the coral reef restoration efforts of Latin American Countries and Territories over the following 2 years.
 
@@ -28,4 +28,30 @@ Equity recognises that people are different and that some might have difficult c
 
 So what we really want is more equity. We should aspire to build a society where everyone can be given the exact resources needed to reach an equal outcome, despite of their circumstances. But I can see how this can be a fine line between what is appropriate and what is too much.
 
+### Conversations with the ICRS Organiser and the Society President
 
+I asked around in the network of my Latin American colleagues and many of them were quite upset about the high registration cost for online registration to the ICRS. There, I found the support I needed to write an Open Letter and present it to the ICRS. We shared our Open Letter both with the ICRS Organising Committee, led by Christian Wild, and the President of the International Coral Reef Society, Andrea Grottoli. An initial pushback turned into a bit of a back and forth and eventually into a fruitful conversation. At that time, it needs ot be acknowledged that the Organisers of the Bremen ICRS were placed in a near impossible situation when the COVID-19 pandemic irrupted in early 2020. It is appreciated that a significant drain in conference funding resulted both because costs could not necessarily be reclaimed when the original conference was postponed, and because some of the original sponsors had inevitably withdrawn their sponsorship. So they had to evaluate. In the meantime, I posted the Open Letter on Twitter and circulated it through various mailing lists inlcuding the [Coral List] administered by the National Oceanic and Atmospheric Administration and the list of the Centre for Biodiversity and Conservation Science at the University of Queensland and received huge support from all over the world.
+
+Two week later, the ICRS (Society) agreed to contribute $50,000 in new sponsorship to the 15th ICRS. In collaboration with financial commitments from the 15th ICRS 2022 Organisers, this new sponsorship would be able to offer a free registration for all ICRS 2022 ONLINE presenters currently employed and residing in low, lower-middle, and upper-middle income economy countries (as defined by the World Bank). I couldn't believe my eyes when I saw the notification by the ICRS!
+
+### And what happened next
+
+My symposium co-chairs, a few Latin American colleagues and even 2 researchers who got back to me after sending the Open Letter through the various networks and channels all agreed to write a scientific publication telling the story and recommending other international societies and conferences to follow ICRS' lead and start to proactively promote diversity, equity and inclusiveness. We collaborated with the editor of ICRS' news journal, 'Reef Encounter', Rupert Ormond to get his insights as a long-term member of the ICRS (Society). So we absorbed his enormous wisdom to write the full story, just on time before the ICRS in Bremen 3-8 of July 2022. Collaborating with Rupert was probably the best ever experience I've had writing an editorial - given the all the help we've received from him!
+
+Our recommendations boil down to 4 recommendations for prefessional societies and conferences:
+1) Conference organising bodies (e.g. scientific, professional, government, industry associations/ societies/ unions/ institutes) need to change their business models by adding an Equity Clause that is aligned with the UN’s Sustainable Development Goal (SDG) 10 - to “Reduce inequality within and among countries”. The Equity Clause would consider ‘waiving registration fees for on-line participation’ and ‘providing equity discount for physical meetings’ to delegates from lower-income countries. 
+
+2) Conferences could somewhat reduce cost by looking for free or low-cost platforms or apps for conferencing, which are generalised rather than custom-made. For instance, although not free of charge, Zoom or Microsoft Teams are available through most organisations in charge of conference organising and can be used for webinars and workshops. Generic, out of the box, low-cost conference apps such as Whova can keep the costs down, e.g., as used at the International Marine Conservation Congress in 2021. 
+
+3) Conferences able to waive online registration fees and/or provide discounts for participants who cannot afford full registration fees have usually sought several corporate sponsors who have often also provided travel grants and reduced registration cost for on-site delegates. 
+
+4) Conferences should also investigate the introduction of a tiered approach where participants able to afford their registration and conference attendance pay somewhat higher registration fees than those less able to pay. The option to “Sponsor a colleague who has challenges attending” presented as a tick-box next to the carbon offset tick-box, could also appeal to some delegates. 
+
+I firmly believe that this is a huge step towards diversity, equity and inclusion. Avoiding groupthink and fostering an inclusion of a wide range of perspectives as well as local and/or traditional knowledge will become paramount for finding innovative solutions to the global coral reef crisis and other 'wicked' problems of our society. 
+
+### And back to you
+Whenever I am consumed by doubt about whether I should go for a scary action to follow my personal values, I think of quotes like this one:
+ 
+“Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.” – Harriet Tubman
+ 
+I thought, I’d share it with you as I know that many of us working in conservation are constantly fighting to change the status quo. This is scary. And that’s ok. You got this!
