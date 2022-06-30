@@ -11,6 +11,7 @@ It would have probably been by chance that I found myself in a Spanish-speaking 
 ![Latin American Crowd at Reef Futures 2018](/images/Latin Coral Reef Rest Practitioners_2018_PMontoya-Maya.png)
 
 Photo credit: Phanor Montoya-Maya
+
 I absolutely adore this picture that we took after our meeting at the Reef Futures conference in December 2018. It was the beginning of something bigger.
  
 But I wanted to go further in giving those people the chance to have a voice at international meetings. In 2020, supported by Edwin A. Hernández-Delgado, Samuel E. Suleimán-Ramos and Phanor Montoya-Maya, I submitted a symposium to the largest coral reef conference, the ICRS20 - this year in Bremen, Germany, to showcase the coral reef restoration efforts in the Caribbean and Eastern Tropical Pacific. The symposium attracted about 17 presenters from lower-middle-income countries such as Puerto Rico, Costa Rica, Mexico, Bonaire, Curacao, Dominican Republic and Colombia. However, ICRS20 was postponed to ICRS21 due to COVID-19 and was held entirely online. Sadly, none of the accepted delegates could afford the 350 Euro participation fee for an online conference - so our symposium changed completely.
