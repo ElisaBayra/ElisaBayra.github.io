@@ -27,6 +27,8 @@ I felt very strongly that there was a huge need for an immediate cultural change
 
 ![Open Letter](/pdf/Open letter to ICRS 2022 Organisers_EB_PM-M.pdf)
 
+<object data="../pdf/Open letter to ICRS 2022 Organisers_EB_PM-M.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 
 ### The difference between Equality vs Equity
  
