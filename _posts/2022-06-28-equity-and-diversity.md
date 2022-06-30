@@ -25,6 +25,8 @@ I felt very strongly that there was a huge need for an immediate cultural change
 
 <a href="ElisaBayra/ElisaBayra.github.io/pdf/Open letter to ICRS 2022 Organisers_EB_PM-M.pdf" target="_blank">Open Letter</a>
 
+![Open Letter](/pdf/Open letter to ICRS 2022 Organisers_EB_PM-M.pdf)
+
 
 ### The difference between Equality vs Equity
  
