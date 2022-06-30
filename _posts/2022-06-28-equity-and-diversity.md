@@ -63,7 +63,7 @@ Our recommendations boil down to 4 points that professional societies and confer
 
 3) Conferences able to waive online registration fees and/or provide discounts for participants who cannot afford full registration fees have usually sought several corporate sponsors who have often also provided travel grants and reduced registration cost for on-site delegates. 
 
-4) Conferences should also investigate the introduction of a tiered approach where participants able to afford their registration and conference attendance pay somewhat higher registration fees than those less able to pay. The option to “Sponsor a colleague who has challenges attending” presented as a tick-box next to the carbon offset tick-box, could also appeal to some delegates. 
+4) Conferences should also investigate the introduction of a tiered approach where participants able to afford their registration and conference attendance pay somewhat higher registration fees than those less able to pay. The option to “Sponsor a colleague who has challenges attending” presented as a tick-box next to the carbon offset, could also appeal to some delegates. 
 
 I firmly believe that this is a huge step towards diversity, equity and inclusion. Avoiding groupthink and fostering an inclusion of a wide range of perspectives as well as local and/or traditional knowledge will become paramount for finding innovative solutions to the global coral reef crisis and other 'wicked' problems of our society. 
 
