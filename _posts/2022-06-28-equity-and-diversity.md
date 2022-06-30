@@ -23,14 +23,7 @@ In 2022, the ICRS was meant to be repeated as a hybrid event hosted again in Ger
  
 I felt very strongly that there was a huge need for an immediate cultural change for inclusion of diversity and towards more equity. So my co-chair, Phanor Montoya Maya from Corales de Paz in Colombia and I wrote a public letter expressing our concerns. We were both prepared to step down as a symposium chairs if ICRS didn't waive the online participation fees for delegates from lower-income economy countries. The letter was supported by 10 wonderful colleagues from Latin America who either coulnd't afford the online cost for participating at the ICRS. At the time of writing, I had no idea whether our call would lead to any change but at least I was full of hope (and equally terrified about the bridges that I may burn). My hope was that it would at least stimulate a discourse for a potential change to happen in the near future. And it did. And it was much faster then I ever dared to dream.
 
-<a href="ElisaBayra/ElisaBayra.github.io/pdf/Open letter to ICRS 2022 Organisers_EB_PM-M.pdf" target="_blank">Open Letter</a>
-
-![Open Letter](/pdf/Open letter to ICRS 2022 Organisers_EB_PM-M.pdf)
-
-<object data="../pdf/Open letter to ICRS 2022 Organisers_EB_PM-M.pdf" width="1000" height="1000" type='application/pdf'></object>
-
-
-[Open Letter 2](http://ElisaBayra.github.io/pdf/Open letter to ICRS 2022 Organisers_EB_PM-M.pdf)
+[Open Letter](http://elisabayra.github.io/pdf/Open letter to ICRS 2022 Organisers_EB_PM-M.pdf)
 
 ### The difference between Equality vs Equity
  
