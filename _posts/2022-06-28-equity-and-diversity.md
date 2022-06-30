@@ -37,6 +37,8 @@ Equity recognises that people are different and that some might have difficult c
 
 ![Equality vs Equity](/images/Equity vs Equality.jpg)
 
+Sources: Flickr (https://www.flickr.com/photos/136820825@N05/26798396924)
+
 So what we really want is more equity. We should aspire to build a society where everyone can be given the exact resources needed to reach an equal outcome, despite of their circumstances. But I can see how this can be a fine line between what is appropriate and what could be perceived as too much.
 
 ### Conversations with the ICRS Organiser and the Society President
