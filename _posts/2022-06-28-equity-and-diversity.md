@@ -55,7 +55,7 @@ Two weeks later, the ICRS (Society) agreed to contribute $50,000 in new sponsors
 
 My symposium co-chairs, a few Latin American colleagues and even 2 researchers who got back to me after sending the Open Letter through the various networks and channels all agreed to write a scientific publication telling the story and recommending other international societies and conferences to follow ICRS' lead and start to proactively promote diversity, equity and inclusiveness. We collaborated with the editor of ICRS' news journal, 'Reef Encounter', Rupert Ormond and got his insights as a long-term member of the ICRS (Society). So we absorbed his enormous wisdom to write the full story, just on time before the ICRS in Bremen 3-8 of July 2022. Collaborating with Rupert was probably the best experience I've ever had in writing an editorial - given all the help we've received from him!
 
-Our recommendations boil down to 4 recommendations for professional societies and conferences:
+Our recommendations boil down to 4 points that professional societies and conferences could employ to increase equity:
 
 1) Conference organising bodies (e.g. scientific, professional, government, industry associations/ societies/ unions/ institutes) need to change their business models by adding an Equity Clause that is aligned with the UN’s Sustainable Development Goal (SDG) 10 - to “Reduce inequality within and among countries”. The Equity Clause would consider ‘waiving registration fees for online participation’ and ‘providing equity discount for physical meetings’ to delegates from lower-income countries. 
 
