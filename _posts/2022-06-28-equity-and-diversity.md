@@ -57,7 +57,7 @@ My symposium co-chairs, a few Latin American colleagues and even 2 researchers w
 
 Our recommendations boil down to 4 points that professional societies and conferences could employ to increase diversity, equity and inclusion:
 
-1) Conference organising bodies (e.g. scientific, professional, government, industry associations/ societies/ unions/ institutes) need to change their business models by adding an Equity Clause that is aligned with the UN’s Sustainable Development Goal (SDG) 10 - to “Reduce inequality within and among countries”. The Equity Clause would consider ‘waiving registration fees for online participation’ and ‘providing equity discount for physical meetings’ to delegates from lower-income countries. 
+1) Conference organising bodies (e.g. scientific, professional, government, industry associations/ societies/ unions/ institutes) need to change their business models by adding an Equity Clause that is aligned with UN’s Sustainable Development Goal (SDG) 10 - to “Reduce inequality within and among countries”. The Equity Clause would consider ‘waiving registration fees for online participation’ and ‘providing equity discount for physical meetings’ to delegates from lower-income countries. 
 
 2) Conferences could somewhat reduce cost by looking for free or low-cost platforms or apps for conferencing, which are generalised rather than custom-made. For instance, although not free of charge, Zoom or Microsoft Teams are available through most organisations in charge of conference organising and can be used for webinars and workshops. Generic, out of the box, low-cost conference apps such as Whova can keep the costs down, e.g., as used at the International Marine Conservation Congress in 2021. 
 
