@@ -30,6 +30,8 @@ I felt very strongly that there was a huge need for an immediate cultural change
 <object data="../pdf/Open letter to ICRS 2022 Organisers_EB_PM-M.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 
+[Open Letter 2](http://ElisaBayra.github.io/pdf/Open letter to ICRS 2022 Organisers_EB_PM-M.pdf)
+
 ### The difference between Equality vs Equity
  
 The United Nations' Sustainable Development Goal (SDG) 10 is to “Reduce inequality within and among countries” – and designed in particular (Target 10.6) to “Ensure enhanced representation and voice for developing countries in decision-making in global international economic and financial institutions in order to deliver more effective, credible, accountable and legitimate institutions” and (10a) to “Implement the principle of special and differential treatment for developing countries, in particular least developed countries, in accordance with World Trade Organization agreements”. 
