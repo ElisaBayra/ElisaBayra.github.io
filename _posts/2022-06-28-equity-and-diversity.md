@@ -43,7 +43,7 @@ So what we really want is more equity. We should aspire to build a society where
 
 ### Conversations with the ICRS Organiser and the Society President
 
-I asked around in the network of my Latin American colleagues and many of them were quite upset about the high online registration costs for the ICRS. Many of them were seeing enormous benefits from online conferncing as that would save them the need and cost to travel while still being able to contribute to a scientific meeting. There, I found the support I needed. Phanor helped me write a public letter expressing our concerns. The open letter was supported by 10 wonderful colleagues from Latin America who coulnd't afford the online cost for participating at the ICRS. 
+I asked around in the network of my Latin American colleagues and many of them were quite upset about the high online registration costs for the ICRS. Many  were seeing enormous benefits from online conferncing as that would save them the need and cost to travel while still being able to contribute to a scientific meeting. There, I found the support I needed. Phanor helped me write a public letter expressing our concerns. The open letter was supported by 10 wonderful colleagues from Latin America who coulnd't afford the online cost for participating at the ICRS. 
 
 <a href="http://elisabayra.github.io/pdf/Open letter to ICRS 2022 Organisers_EB_PM-M.pdf">View Open Letter to ICRS</a>
 
