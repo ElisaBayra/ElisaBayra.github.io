@@ -23,7 +23,7 @@ Of course, that’s your friend ‘the imposter syndrome’ talking. So, what do
 Last year, I had the worst experience of self-doubt and imposter syndrome. One of my mentors suggested I should apply for one of the Women in Technology awards which usually require professionals to nominate you. As it happens, one out of 8 people I’ve asked chose not to support my application with a nomination – partly because they didn’t know me and partly because the digital innovation product that I was working on with my team wasn’t released just yet. Despite having the support from 7 Directors, Scientists and national Leaders, my imposter syndrome decided to make itself a home in this one single rejection. Funny enough, upon applying, the judges invited me to an interview and shortly after, I received the notification that I was a finalist. In September 2022, at the big Gala event, I was awarded the Women in Technology “Digital Mover and Shaker” Award acknowledging my leading-edge contributions at the interface of science, tech and innovation over the last 6 years. I was glad, I did not allow this one person to stop me!
 
 
-![WiT Awards Winner](images/WiT Awards acceptance Elisa - credits Paul Neil Photography.png)
+![WiT Awards Winner](/images/WiT Awards acceptance Elisa - credits Paul Neil Photography.png)
 
 Photo credits: Paul Neil Photography
 
