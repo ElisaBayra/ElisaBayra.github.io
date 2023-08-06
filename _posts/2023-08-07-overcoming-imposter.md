@@ -68,6 +68,8 @@ If you’ve experienced imposter syndrome once, it is very likely that you may e
 
 
 Resources:
+
 https://www.apa.org/monitor/2021/06/cover-impostor-phenomenon
+
 https://hbr.org/2008/05/overcoming-imposter-syndrome
 
