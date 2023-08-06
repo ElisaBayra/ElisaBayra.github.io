@@ -38,36 +38,36 @@ Picture
 But you can learn to manage your imposter syndrome. Over the years, I’ve learned a couple of helpful ways to manage the chronic feeling of self-doubt and inadequacy. Most of the strategies are based around gathering and compiling as much evidence as possible to validate and remind yourself about your achievements and accolades. Here’s a few things that have worked for me:
 
 
-1.	Collect evidence on your achievements – start your “Book of Winning”
+#### 1.	Collect evidence on your achievements – start your “Book of Winning”
 
 The best strategy to combat imposter syndrome has been to reflect on your professional career achievements and remind yourself of your own value in the professional world. It takes many years of hardship, discipline, blood, sweat and tears to study a STEMM subject, write a thesis or defend you doctorate. My personal trick is to maintain a “Book of Winning”. My Book of Winning is an A4 book with blank pages which I use to stick evidence on big but also little successes professionally and personally. I print out news on winning awards, articles about my research, interviews I’ve given, events I’ve held, speakers’ fora but also small things like a positive email from a mentor or feedback from a happy stakeholder. Every time I feel unsure and inadequate, I take some time to look through this book, page by page, and to remind me of my achievements and the value I bring to the table.
 
-2.	Share your feelings with trusted individuals
+#### 2.	Share your feelings with trusted individuals
 
 Reflect whether you can identify some trusted individuals who you could talk to if you feel that you can’t trust your own judgement. Ask them about feedback about your strengths and how they would describe your achievements in your present role. Be very careful who you choose to be vulnerable to as sometimes sharing your feelings with peers who also struggle with imposter syndrome could promote competitiveness and make things worse. If you are unsure about trusted individuals, consider paying an expert to help you navigate the imposter feeling and equip you with tools to combat it. I personally have benefitted a lot from paying a psychologist to support me understand why I feel the way I do sometimes. Remember, seeing a psychologist doesn’t mean something is wrong with you. I am strong believer that everyone would benefit from some professional life couching and someone to help you clean up and tidy the chaos that’s sometimes in our heads and feelings. Of course, you can talk to your partner or friends but often talking to a professional gives you a completely different and fresh perspective on how to navigate a difficult situation. 
 
-3.	Learn, grown and upskill
+#### 3.	Learn, grown and upskill
 
 Actively seek opportunities for professional training and consider investing in your professional growth at your own expenses in case you don’t belong to an organisation that would pay for professional training. There’s nothing more inspiring than to undergo a training run by an empowering community to lift you up and validate your professional value. I have recently enrolled in several trainings by the Women in Technology Organisation, e.g., a training on board readiness and a training of culturally and linguistically diverse women in tech. Each time, I’ve felt inspired, empowered, and could add some amazing professional superstar women to expand my network. Network is crucial for your professional advancement.
 
-4.	Celebrate all success – no matter how small
+#### 4.	Celebrate all success – no matter how small
 
 Every little win counts – add them to your long list of successes, no matter how small. Whether it’s a paper you co-authored that just got published or you received an email from a colleague who found your research helpful – everything counts. Don’t brush off your successes – celebrate them, talk about them, commit to them! If someone congratulates you on something that you’ve achieved, simply say: Thank you for your kind words!
 
-5.	Let go of perfectionism
+#### 5.	Let go of perfectionism
 
 I personally have struggled with this one a lot as I have very high work standards that I am imposing on myself. The problem is that perfectionism often stands in the way of progress. Given the fast pace of our world, we need good solutions to problems now, not perfect ones in 10 years. Remind yourself that “The Perfect is the enemy of the Good” – as Voltaire and many other scholars have recognised. Ask yourself whether someone would even notice if you deliver at 80% for a 20% effort rather than to aim to complete the last 20% to make it perfect for another 80% of effort, commonly known as the Pareto Principle. My guess is: probably not. I am sure you can spend those 80% of energy more wisely.
 
-6.	Adopt a growth mindset
+#### 6.	Adopt a growth mindset
 
 As opposed to the fixed mindset where people believe that their intelligence and talents are fixed, a growth mindset assumes that we have the ability to expand, get smarted, become more talented over time depending on how much effort we are willing to put into it. A growth mindset turns “failure” on its head into “lessons learnt”. If something doesn’t work out, you learn from it and next time, you will do better. I am currently listening to the audio book by the psychologist Dr Carol S. Dweck called “Mindset” which has completely transformed my relationship to “failure”.
 
-7.	Don’t wait to take action
+#### 7.	Don’t wait to take action
 
 If you’ve experienced imposter syndrome once, it is very likely that you may experience it in the future. Rather than giving in, actively equip yourself with the tools and support from your network to combat it once you recognise it. Every time you take action, you will get better at taming the feeling of inadequacy. Once you have taken action, you will feel validated and empowered. If you recognise that the cause for your imposter syndrome is the work culture and the environment, ask yourself where you’d like to work in a place where you are merely tolerated while you could be working somewhere where your skills and contributions are celebrated.
 
 
-Resources:
+### Resources:
 
 https://www.apa.org/monitor/2021/06/cover-impostor-phenomenon
 
