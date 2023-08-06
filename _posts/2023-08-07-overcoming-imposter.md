@@ -14,7 +14,7 @@ Other situations came from making professional decisions that were physically ch
 
 Probably the biggest source for my imposter feeling was the frequent change in jobs and scientific fields. Academic life is hard. Trying to establish yourself as a researcher requires you to accept all the uncertainty of short-term jobs and not knowing whether your next research grant proposal will be successful. Most fail. Some few ones succeed. You better embrace uncertainty as there’s only one constant in life and that’s: change. Stumbling from job to job, from grant to research assistant role, I changed from biophysics to marine microbiology, from coral reef ecology to marine coastal restoration, from threatened species biodiversity indicators to management of research software for the environment. And every time you change jobs you feel like:
 
-
+<a href="https://tenor.com/view/dont-know-no-idea-dont-know-what-i-am-doing-dog-space-gif-13573944"</a>
 
 
 
