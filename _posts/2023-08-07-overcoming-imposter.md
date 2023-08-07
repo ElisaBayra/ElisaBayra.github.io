@@ -53,7 +53,7 @@ Reflect whether you can identify some trusted individuals who you could talk to 
 
 #### 3.	Learn, grown and upskill
 
-Actively seek opportunities for professional training and consider investing in your professional growth at your own expenses in case you don’t belong to an organisation that would pay for professional training. There’s nothing more inspiring than to undergo a training run by an empowering community to lift you up and validate your professional value. I have recently enrolled in several trainings by the Women in Technology Organisation, e.g., a training on board readiness and a training of culturally and linguistically diverse women in tech. Each time, I’ve felt inspired, empowered, and could add some amazing professional superstar women to expand my network. Network is crucial for your professional advancement.
+Actively seek opportunities for professional training and consider investing in your professional growth at your own expenses in case you don’t belong to an organisation that would pay for professional training. There’s nothing more inspiring than to undergo a training run by an empowering community to lift you up and validate your professional value. I have recently enrolled in several trainings by the Women in Technology Organisation, e.g., a training on board readiness and a training for culturally and linguistically diverse women in tech. Each time, I’ve felt inspired, empowered, and could add some amazing professional superstar women to expand my network. Network is crucial for your professional advancement.
 
 #### 4.	Celebrate all success – no matter how small
 
