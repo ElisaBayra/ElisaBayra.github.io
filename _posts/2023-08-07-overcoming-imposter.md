@@ -65,7 +65,7 @@ I personally have struggled with this one a lot as I have very high work standar
 
 #### 6.	Adopt a growth mindset
 
-As opposed to the fixed mindset where people believe that their intelligence and talents are fixed, a growth mindset assumes that we have the ability to expand, get smarted, become more talented over time depending on how much effort we are willing to put into it. A growth mindset turns “failure” on its head into “lessons learnt”. If something doesn’t work out, you learn from it and next time, you will do better. I am currently listening to the audio book by the psychologist Dr Carol S. Dweck called “Mindset” which has completely transformed my relationship to “failure”.
+As opposed to the fixed mindset where people believe that their intelligence and talents are fixed, a growth mindset assumes that we have the ability to expand, get smarter, and become more talented over time depending on how much effort we are willing to put into it. A growth mindset turns “failure” on its head into “lessons learnt”. If something doesn’t work out, you learn from it and next time, you will do better. I am currently listening to the audio book by the psychologist Dr Carol S. Dweck called ["Mindset"](https://www.audible.com.au/pd/Mindset-by-Carol-S-Dweck-Book-Summary-Audiobook/1094246026?source_code=SEMPP30DTRIAL4520414230009&ipRedirectOverride=true&noapp=1&ds_rl=1252391&gclid=Cj0KCQjwrMKmBhCJARIsAHuEAPRXRu5kBoTvVO6ysw_KmEy7yzvQ63KL6LoiAfswaUrMVRRzT-yhStEaApyZEALw_wcB&gclsrc=aw.ds "Link to Carol Dweck's Mindset") which has completely transformed my relationship to “failure”.
 
 #### 7.	Don’t wait to take action
 
