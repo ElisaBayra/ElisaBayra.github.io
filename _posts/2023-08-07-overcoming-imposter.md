@@ -34,8 +34,7 @@ Reception of the “Digital Mover and Shaker Award” by the Women in Technology
 The answer is no, there’s no such thing as a cure for imposter syndrome. But one thing that I could tell you for sure is that it’s very unlikely that you’re an imposter. Real imposters don’t even consider the slightest feeling of self-doubt. That’s not you!
 
 ![ImposterMeme](/images/ImposterMeme.png)
-Source: https://programmerhumor.io/programming-memes/impostor-syndrome/
-
+Source: [ProgrammerHumor](https://programmerhumor.io/programming-memes/impostor-syndrome/ "Link to Meme")
 
 But you can learn to manage your imposter syndrome. Over the years, I’ve learned a couple of helpful ways to manage the chronic feeling of self-doubt and inadequacy. Most of the strategies are based around gathering and compiling as much evidence as possible to validate and remind yourself about your achievements and accolades. Here’s a few things that have worked for me:
 
