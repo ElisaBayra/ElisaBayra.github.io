@@ -14,6 +14,10 @@ Growing up, I managed to put myself in more situations that made me feel like an
 
 Other situations came from making professional decisions that were physically challenging such as to become a scientific diver. Working as a research diver may look like quite an adventure – of course you go to the most amazing places of the world like the Greek volcanic islands, the Arctic, the Caribbean, the Great Barrier Reef. And while glorified externally, I doubt that too many people knew that I was packing and repacking and counting my equipment and measurement devices over and over again because I was afraid that I wasn’t well enough prepared for the next field trip of my PhD, often until the early morning hours. Sometimes, I’d fall asleep on a bumpy boat drive back from a field trip because I was only sleeping for 2-3 hrs.
 
+![Superdiver](/images/Superdiver.jpg)
+
+How can this Superdiver possibly have an imposter feeling?
+
 Probably the biggest source for my imposter feeling was the frequent change in jobs and scientific fields. Academic life is hard. Trying to establish yourself as a researcher requires you to accept all the uncertainty of short-term jobs and not knowing whether your next research grant proposal will be successful. Most fail. Some few ones succeed. You better embrace uncertainty as there’s only one constant in life and that’s: change. Stumbling from job to job, from grant to research assistant role, I changed from biophysics to marine microbiology, from coral reef ecology to marine coastal restoration, from threatened species biodiversity indicators to management of research software for the environment. And every time you change jobs you feel like:
 
 <a href="https://tenor.com/view/dont-know-no-idea-dont-know-what-i-am-doing-dog-space-gif-13573944">Check out this gif on the dog in space </a>
