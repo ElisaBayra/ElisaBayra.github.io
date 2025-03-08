@@ -47,7 +47,7 @@ Some of the fastest-growing roles include:
 Notice something? Many of these align closely with skills acquired during a PhD, especially in environmental science.
 
 ---
-### How your PhD skills translate to industry
+### How do your PhD skills translate to industry?
 
 Many PhD students and PostDocs in academia already possess the top skills employers are looking for as indicated in the Future of Jobs Report 2025. They just need to reframe them in a business-friendly language that industry understands. 
 
