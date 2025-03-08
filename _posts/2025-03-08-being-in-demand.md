@@ -29,7 +29,7 @@ Over the past couple of years, I’ve received numerous invitations to speak to 
 So, I decided to write this little guide for those wondering, "What’s next?" – and how to get there.
 
 ---
-### What jobs are in demand for the next 10 years?
+### What jobs are in demand for the next 5 years?
 
 I recently came across the World Economic Forum’s [Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/), which highlights the most in-demand jobs and skills for the 2025-2030 period. The report is based on an extensive survey of over 1,000 global employers, representing more than 14 million workers across 22 industry clusters and 55 economies. The survey results were complemented by data from ADP (a payroll system), Coursera, Indeed, and LinkedIn. The report captures perspectives and insights into the jobs most in demand. These jobs are shaped by technology changes, the green transition (e.g., investing in renewables, electric vehicles, and sustainable production methods like green steel), societal issues, economic uncertainty, demographic shifts (e.g., changes in gender, age, birth rates, and population distribution), and geoeconomic fragmentation (the growing restriction of international trade and financial transactions to countries that are politically aligned).
 
