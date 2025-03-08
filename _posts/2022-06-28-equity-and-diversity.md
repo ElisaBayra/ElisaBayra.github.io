@@ -1,4 +1,4 @@
-## A call on conferences for more equity and inclusion of diversity
+## A call on conferences for more equality and inclusion of diversity
 
 This blog post is dedicated to all the people who care about equity and inclusion of diversity, especially with regards to collaborations with researchers and practitioners from low, lower-middle, and upper-middle income economy countries. Here, I tell my personal backstory about how the largest, oldest, and most respected coral reef research society, the International Coral Reef Society (ICRS), changed their operational model for running their International Coral Reef Symposium (ICRS22) to improve participation and access to delegates from developing countries by waiving the online registration fees. This change must have followed years of conversations and more recently, a public letter by a very unhappy symposium chair. Me.
 
