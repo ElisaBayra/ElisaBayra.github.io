@@ -31,7 +31,7 @@ So, I decided to write this little guide for those wondering, "What’s next?" �
 ---
 ### What jobs are in demand for the next 5 years?
 
-I recently came across the World Economic Forum’s [Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/) (only released in January 2025), which highlights the most in-demand jobs and skills for the 2025-2030 period. The report is based on an extensive survey of over 1,000 global employers, representing more than 14 million workers across 22 industry clusters and 55 economies. The survey results were complemented by data from ADP (a payroll system), Coursera, Indeed, and LinkedIn. The report captures perspectives and insights into the jobs most in demand. These jobs are shaped by technology changes, the green transition (e.g., investing in renewables, electric vehicles, and sustainable production methods like green steel), societal issues, economic uncertainty, demographic shifts (e.g., changes in gender, age, birth rates, and population distribution), and geoeconomic fragmentation (the growing restriction of international trade and financial transactions to countries that are politically aligned).
+I recently came across the World Economic Forum’s [Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/) (only released in January 2025), which highlights the most in-demand jobs and skills for the 2025-2030 period. The report is based on an extensive survey of over 1,000 global employers, representing more than 14 million workers across 22 industry clusters and 55 economies. The survey results were complemented by data from ADP (a multi-national payroll and HR provider), Coursera, Indeed, and LinkedIn. The report captures perspectives and insights into the jobs most in demand. These jobs are shaped by technology changes, the green transition (e.g., investing in renewables, electric vehicles, and sustainable production methods like green steel), societal issues, economic uncertainty, demographic shifts (e.g., changes in gender, age, birth rates, and population distribution), and geoeconomic fragmentation (the growing restriction of international trade and financial transactions to countries that are politically aligned).
 
 Some of the fastest-growing roles include:
 
@@ -44,7 +44,7 @@ Some of the fastest-growing roles include:
 * Healthcare and Social Work Professionals
 * Logistics & Supply Chain Specialists
 
-Notice something? Many of these align closely with skills acquired during a PhD, especially in environmental science.
+Notice anything? Many of these align closely with skills acquired during a PhD, especially in environmental science.
 
 ---
 ### How do your PhD skills translate to industry?
