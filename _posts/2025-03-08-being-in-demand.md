@@ -1,4 +1,4 @@
-## Being in Demand – A Transition Guide for (Young) Academics
+## Being in demand – a transition guide for (young) academics
 
 Thinking about leaving academia but unsure where to start? In this guide, I share my personal journey from short-term research contracts to landing my dream job in industry. Drawing insights from the World Economic Forum's [Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/), I explore the top in-demand skills for the next decade and show how PhD students and PostDocs – especially in environmental science – already possess many of them. The key? Learning how to translate academic expertise into business-friendly language. Whether you're considering a move or just curious, this post will help you navigate the transition with confidence.
 
