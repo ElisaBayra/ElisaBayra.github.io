@@ -71,7 +71,7 @@ Here’s how:
 | Statistical analysis of complex datasets | 	In demand for sustainability forecasting, finance, and impact evaluation.    | 
 | **4. Cybersecurity & digital literacy** |       | 
 | Managing and securing sensitive research data (e.g., threatened species locations, privacy data on survey respondents) | 	Important in data governance, regulatory compliance, and digital risk management.    | 
-| Using cloud computing and databases for environmental modelling (AWS SageMaker, GeoCloud, high-performance computation etc.)	 | Key in roles related to big data management, geospatial intelligence, and design of smart cities.  | 
+| Using cloud computing and databases for environmental modelling (e.g., AWS SageMaker, GeoCloud, high-performance computation etc.)	 | Key in roles related to big data management, geospatial intelligence, and design of smart cities.  | 
 | **5. Leadership & social influence** |    | 
 | Supervising and mentoring undergraduate and graduate students | 	This translates to leadership, training, and professional development roles. | 
 | Leading multi-institutional collaborations and grant-funded projects (e.g., your co-authors are in Australia, UK, and Mexico)	 | Relevant for project management, stakeholder engagement, and sustainability leadership. | 
