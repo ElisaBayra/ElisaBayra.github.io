@@ -5,7 +5,7 @@ Thinking about leaving academia but unsure where to start? In this guide, I shar
 
 ---
 
-### From Academia to Industry: My Journey
+### From academia to industry: my journey
 For much of my career, I believed I would never leave academia. At one point, it felt like academia was all I knew. I got my PhD in Coral Reef Ecology in 2013 studying Colombian coral reefs ([Bayraktarov et al. 2012](https://www.icrs2012.com/proceedings/manuscripts/ICRS2012_9A_2.pdf);  [Eidens et al. 2012](https://www.researchgate.net/profile/Elisa_Bayraktarov/publication/265251223_Seasonal_upwelling_stimulates_primary_production_of_Colombian_Caribbean_coral_reefs/links/540662ed0cf2c48563b24f4f.pdf?__cf_chl_tk=WC3xWXY3DsD73VOvwRApcAcT9m.ipopnd8LacyCNdHI-1741421778-1.0.1.1-JrMVr47T4eiAkt5d8.fTtfXSFuIVBVpgBWwGp4MMou0); [Bayraktarov et al. 2013](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0080536);  [Bayraktarov et al. 2014a](https://peerj.com/articles/397/), [2014b](https://epic.awi.de/id/eprint/36306/1/Bayraktarov-etal_2014.pdf), [2014c](https://link.springer.com/article/10.1007/s10661-014-3647-3), [2014d](http://www.biogeosciences.net/11/2977/2014/bg-11-2977-2014.html); [Eidens et al. 2014](https://peerj.com/articles/554/); [Eidens et al. 2015](http://journal.frontiersin.org/article/10.3389/fmars.2015.00002/full); [Plass-Johnson et al. 2015](https://link.springer.com/chapter/10.1007/978-94-017-9499-2_9)). Afterwards, I moved to Brisbane, Australia, to try my luck as an early career researcher. My first role was as a Research Assistant at the Global Change Institute at the University of Queensland, with a contract of just 150 hours (yes, hours – not days). This was followed by several short-term positions, ranging from a few months to a maximum of two years.
 
 During this time, I engaged in fascinating projects, such as analysing seagrass samples ([Saunders et al. 2015](https://www.degruyter.com/document/doi/10.1515/bot-2014-0060/html)), compiling literature data to create a cost and feasibility database for marine restoration projects ([Bayraktarov et al. 2015](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/15-1077); [Bayraktarov et al. 2019](https://onlinelibrary.wiley.com/doi/abs/10.1111/rec.12977); [Bayraktarov et al. 2020](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228477)), and conducting fieldwork to study the interactions between coral and algae under climate change and eutrophication. One of my most challenging and rewarding projects was developing Australia’s Threatened Species Index ([Bayraktarov et al. 2019](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2018.00239/full); [Bayraktarov et al. 2021](https://conbio.onlinelibrary.wiley.com/doi/10.1111/csp2.322); [Bayraktarov et al. 2021](https://conbio.onlinelibrary.wiley.com/doi/10.1111/csp2.443)), which involved integrating data on threatened species trends into a multi-species visualisation tool – a powerful communication resource telling us how Australia’s threatened species are going (check it out at [tsx.org.au](https://tsx.org.au/)).
@@ -29,7 +29,7 @@ Over the past couple of years, I’ve received numerous invitations to speak to 
 So, I decided to write this little guide for those wondering, "What’s next?" – and how to get there.
 
 ---
-### What Jobs Are in Demand for the Next 10 Years?
+### What jobs are in demand for the next 10 years?
 
 I recently came across the World Economic Forum’s [Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/), which highlights the most in-demand jobs and skills for the 2025-2030 period. The report is based on an extensive survey of over 1,000 global employers, representing more than 14 million workers across 22 industry clusters and 55 economies. The survey results were complemented by data from ADP (a payroll system), Coursera, Indeed, and LinkedIn. The report captures perspectives and insights into the jobs most in demand. These jobs are shaped by technology changes, the green transition (e.g., investing in renewables, electric vehicles, and sustainable production methods like green steel), societal issues, economic uncertainty, demographic shifts (e.g., changes in gender, age, birth rates, and population distribution), and geoeconomic fragmentation (the growing restriction of international trade and financial transactions to countries that are politically aligned).
 
@@ -47,7 +47,7 @@ Some of the fastest-growing roles include:
 Notice something? Many of these align closely with skills acquired during a PhD, especially in environmental science.
 
 ---
-### How Your PhD Skills Translate to Industry
+### How your PhD skills translate to industry
 
 Many PhD students and PostDocs in academia already possess the top skills employers are looking for as indicated in the Future of Jobs Report 2025. They just need to reframe them in a business-friendly language that industry understands. 
 
@@ -87,7 +87,7 @@ Here’s how:
 
 ---
 
-### How to Reframe Your Skills for Industry
+### How to reframe your skills for industry
 Once you’ve felt the fear and yet decided to apply for a job outside of academia, you will need to focus on describing your experience that matters to the employer. And you will need to use their language, so they understand. 
 
 Here’s how to translate your academic experience into business-friendly language:
