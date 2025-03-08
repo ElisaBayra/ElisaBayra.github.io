@@ -23,7 +23,7 @@ Reflecting on my career, I realise it wasn’t a straight path at all. I feel I 
 
 Over the past couple of years, I’ve received numerous invitations to speak to students about my journey from academia to industry. I enjoy helping them see how their skills are not just valuable but in demand beyond academia. 
 
-![Looks of Elisa](/images/Dress like a woman collation.jpg)
+![Advertisement of a student event on 'Beyond Academia'](/images/JAMS event advertisement.jpg)
 
 
 
