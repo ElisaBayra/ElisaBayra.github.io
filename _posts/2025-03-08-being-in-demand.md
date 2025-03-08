@@ -93,7 +93,7 @@ Once you’ve felt the fear and yet decided to apply for a job outside of academ
 Here’s how to translate your academic experience into business-friendly language:
 
 | **Academic experience**	 | **Translation into business lingo** |
-| ------------- |:-------------:|
+| ------------- |-------------|
 | **Grant writing**: Wrote successful research grants securing $500K in funding. | **Business development & fundraising**: Developed persuasive funding proposals and secured $500K for high-impact projects, demonstrating strong business development and stakeholder engagement skills. | 
 | **Literature review**: Conducted an extensive systematic literature review on climate resilience strategies. | **Market research & competitive analysis**: Performed in-depth market research to identify trends, risks, and opportunities in climate resilience, informing strategic decision-making.   | 
 | **Writing research papers**: Published six peer-reviewed papers on marine ecosystem restoration.| **Technical writing & science communication**: Produced six high-quality technical reports and publications, translating complex environmental data into actionable insights for stakeholders. | 
