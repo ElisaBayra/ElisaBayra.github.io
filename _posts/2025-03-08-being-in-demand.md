@@ -88,7 +88,7 @@ Here’s how:
 ---
 
 ### How to reframe your skills for industry?
-Once you’ve felt the fear and yet decided to apply for a job outside of academia, you will need to focus on describing your experience that matters to the employer. And you will need to use their language, so they understand. 
+Once you’ve felt the fear and yet decided to apply for a job outside of academia, you will need to focus on describing your experience that matters to the employer. And you will need to use their language, so they understand the value that you are bringing to their business.
 
 Here’s how to translate your academic experience into business-friendly language:
 
