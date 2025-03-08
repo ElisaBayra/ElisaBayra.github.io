@@ -54,7 +54,7 @@ Many PhD students and PostDocs in academia already possess the top skills employ
 Here’s how:
 
 | **Your PhD/PostDoc transferable skills** | **Industry relevance of your skills** |
-| ------------- |:-------------:|
+| ------------- |-------------|
 | **1. Analytical thinking & problem-solving** |
 | Designing research projects and formulating hypotheses to test | Businesses need problem-solvers who can analyse trends, optimise processes, and improve efficiency |
 | Synthesising large amounts of information from diverse sources e.g., carrying out a literature review, developing surveys | 	Critical in strategic decision-making, policy analysis, and environmental risk assessment|  
