@@ -57,28 +57,28 @@ Here’s how:
 | ------------- |:-------------:|
 | **1. Analytical thinking & problem-solving** |
 | Designing research projects and formulating hypotheses to test | Businesses need problem-solvers who can analyse trends, optimise processes, and improve efficiency |
-| Synthesising large amounts of information from diverse sources e.g. carrying out a literature review, developing surveys | 	Critical in strategic decision-making, policy analysis, and environmental risk assessment|  
+| Synthesising large amounts of information from diverse sources e.g., carrying out a literature review, developing surveys | 	Critical in strategic decision-making, policy analysis, and environmental risk assessment|  
 | Identifying caveats and limitations, troubleshooting experimental or methodological challenges | 	These skills help in product development, operational efficiency, and business process optimisation  |  
-| Evaluating data for patterns and insights (e.g. producing descriptive statistics, plots, visualisations) | 	Essential for roles in conservation analytics, environmental impact assessment, and sustainability reporting  |  
+| Evaluating data for patterns and insights (e.g., producing descriptive statistics, plots, visualisations) | 	Essential for roles in conservation analytics, environmental impact assessment, and sustainability reporting  |  
 | **2. Resilience, agility & adaptability**|     |  
-| Navigating setbacks in research (e.g. failed experiments, non-significant results), funding challenges (e.g. failed grants), and peer review (e.g. rejection of manuscripts) | Employers value resilience in fast-changing industries like sustainability, AI, and environmental policy. Failures can be used as lessons learned for next time. Many employers want you to fail as quickly as possible with an approach you’ve taken, so that they know not to invest in this approach.|  
-| Adapting fieldwork methods based on real-world conditions (e.g. COVID-19, floods, rain, hail, stormy seas, high/low temperature)| 	This skill is key in industries where regulations, funding, and technology change rapidly.  |  
-| Handling interdisciplinary collaborations across teams and expertise levels (e.g. an oceanographer (Professor), a physical modeller (PostDoc) and a marine biologist (PhD Student)) | 	This is important for working in multi-stakeholder projects involving NGOs, governments, and private sector partners.   |  
+| Navigating setbacks in research (e.g., failed experiments, non-significant results), funding challenges (e.g., failed grants), and peer review (e.g., rejection of manuscripts) | Employers value resilience in fast-changing industries like sustainability, AI, and environmental policy. Failures can be used as lessons learned for next time. Many employers want you to fail as quickly as possible with an approach you’ve taken, so that they know not to invest in this approach.|  
+| Adapting fieldwork methods based on real-world conditions (e.g., COVID-19, floods, rain, hail, stormy seas, high/low temperature)| 	This skill is key in industries where regulations, funding, and technology change rapidly.  |  
+| Handling interdisciplinary collaborations across teams and expertise levels (e.g., an oceanographer (Professor), a physical modeller (PostDoc) and a marine biologist (PhD Student)) | 	This is important for working in multi-stakeholder projects involving NGOs, governments, and private sector partners.   |  
 | **3. AI & Big Data knowledge** |       |  
 | Using R or Python for data analysis and modelling | There is a high demand for data scientists, sustainability analysts, and AI-driven environmental monitoring experts. |  
 | Applying machine learning models to make predictions using ecological, species and/or climate data | This is a valuable skill in AI-powered conservation technology, biodiversity monitoring, and carbon tracking.   |  
-| Working with GIS (ArcGIS, ArcGIS Online, QGIS) and other remote sensing tools | 	This is key for any roles in planning, spatial analysis, environmental consulting, and precision agriculture.    | 
+| Working with GIS (e.g., ArcGIS, ArcGIS Online, QGIS) and other remote sensing tools | 	This is key for any roles in planning, spatial analysis, environmental consulting, and precision agriculture.    | 
 | Statistical analysis of complex datasets | 	In demand for sustainability forecasting, finance, and impact evaluation.    | 
 | **4. Cybersecurity & digital literacy** |       | 
-| Managing and securing sensitive research data (e.g. threatened species locations, privacy data on survey respondents) | 	Important in data governance, regulatory compliance, and digital risk management.    | 
+| Managing and securing sensitive research data (e.g., threatened species locations, privacy data on survey respondents) | 	Important in data governance, regulatory compliance, and digital risk management.    | 
 | Using cloud computing and databases for environmental modelling (AWS SageMaker, GeoCloud, high-performance computation etc.)	 | Key in roles related to big data management, geospatial intelligence, and design of smart cities.  | 
 | **5. Leadership & social influence** |    | 
 | Supervising and mentoring undergraduate and graduate students | 	This translates to leadership, training, and professional development roles. | 
-| Leading multi-institutional collaborations and grant-funded projects (e.g. your co-authors are in Australia, UK, and Mexico)	 | Relevant for project management, stakeholder engagement, and sustainability leadership. | 
-| Presenting at conferences and engaging with policymakers (e.g. by giving invited seminars at the Department of Climate Change, Energy, the Environment and Water) | This can be seen as a strong foundation for advocacy, public relations, and corporate social responsibility (CSR) roles. | 
+| Leading multi-institutional collaborations and grant-funded projects (e.g., your co-authors are in Australia, UK, and Mexico)	 | Relevant for project management, stakeholder engagement, and sustainability leadership. | 
+| Presenting at conferences and engaging with policymakers (e.g., by giving invited seminars at the Department of Climate Change, Energy, the Environment and Water) | This can be seen as a strong foundation for advocacy, public relations, and corporate social responsibility (CSR) roles. | 
 | **6. Creative thinking & innovation** |       | 
-| Developing novel research approaches and methodologies (e.g. new modelling, experimental approaches) | 	These abilities are sought-after in R&D, sustainability innovation, and emerging technology applications.      | 
-| Designing conservation solutions that integrate local community needs (e.g. through participatory GIS, focus groups, etc.) |	This is important in impact-driven businesses, social enterprises, and sustainable development.   | 
+| Developing novel research approaches and methodologies (e.g., new modelling, experimental approaches) | 	These abilities are sought-after in R&D, sustainability innovation, and emerging technology applications.      | 
+| Designing conservation solutions that integrate local community needs (e.g., through participatory GIS, focus groups, etc.) |	This is important in impact-driven businesses, social enterprises, and sustainable development.   | 
 | Finding unconventional solutions to logistical or research challenges, aka creative problem solving | 	This skill is valued in industries needing innovation in product design, renewable energy, and green engineering.  | 
 | **7. Project & stakeholder management**|       | 
 | Managing multi-year research projects with diverse teams | 	This aligns with program management, sustainability initiatives, and cross-sector collaborations.     | 
