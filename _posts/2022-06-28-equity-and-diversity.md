@@ -31,9 +31,9 @@ The United Nations' Sustainable Development Goal (SDG) 10 is to “Reduce inequa
 
 Lately, I've been thinking a lot about equality vs equity and discovered that there's a huge difference in meaning:
 
-Equality is giving all people the same resources or opportunities, that is - all people no matter their country of origin can register for the ICRS and have to pay the same registration fee.
+**Equality** is giving all people the same resources or opportunities, that is - all people no matter their country of origin can register for the ICRS and have to pay the same registration fee.
 
-Equity recognises that people are different and that some might have difficult circumstances. So equity allocates the exact resources needed to reach an equal outcome, that is - people from lower-income economy countries can apply to get their online participation fees waived so that they can partake in the scientific discourse with everyone else.
+**Equity** recognises that people are different and that some might have difficult circumstances. So equity allocates the exact resources needed to reach an equal outcome, that is - people from lower-income economy countries can apply to get their online participation fees waived so that they can partake in the scientific discourse with everyone else.
 
 ![Equality vs Equity](/images/Equity vs Equality.jpg)
 
