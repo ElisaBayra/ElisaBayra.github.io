@@ -72,4 +72,4 @@ Whenever I am consumed by doubt about whether I should go for a scary action to 
  
 “Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.” – Harriet Tubman
  
-I thought, I’d share it with you as I know that many of us working in conservation are constantly fighting to change the status quo. This is scary. And that’s ok. You got this!
+I thought, I’d share it with you as I know that many of us working in conservation are constantly fighting to change the *status quo*. This is scary. And that’s ok. You got this!
